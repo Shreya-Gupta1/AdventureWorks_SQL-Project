@@ -16,4 +16,5 @@ To solve these problem statements SQL queries are written which use various data
 
 ## Result and Conclusion:
 The data obtained for the SQL queries is then represented graphically for better understanding. They can be viewed on the ppt included in this repository. A few of them can be seen in the image below- 
+
 ![analysis image-1](https://github.com/Shreya-Gupta1/Adventureworks_sql-project/assets/86680103/94fcda24-247c-4946-8b52-93b3c43a5c72)
