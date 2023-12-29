@@ -13,7 +13,7 @@ The project uses the Adventureworks dataset, a practical dataset that covers var
 * Number of products shipped per month and year
 * the top 3 highest selling Sales Person by Territory for each month and year
 
-To solve these problem statements SQL queries are written which use various data aggregation and result manupulations functions like nested queries, partition, join, group by and many more
+To solve these problem statements SQL queries are written which use various data aggregation and result manupulations functions like nested queries, partition, join, group by and many more. The SQL query file is available [here](https://github.com/Shreya-Gupta1/AdventureWorks_SQL-Project/blob/main/SQL%20Query_Adventureworks.sql)
 
 ## Result and Conclusion:
 The data obtained for the SQL queries is then represented graphically for better understanding. They can be viewed on the [ppt](https://github.com/Shreya-Gupta1/Adventureworks_sql-project/blob/main/AdventureWorks_Analysis.pdf) included in this repository. A few of them can be seen in the image below- 
