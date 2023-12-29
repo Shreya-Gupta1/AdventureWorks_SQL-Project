@@ -1,4 +1,5 @@
-![image](https://github.com/Shreya-Gupta1/AdventureWorks_SQL-Project/assets/86680103/89a7b7b6-6f21-4079-b728-f3e6ebca105f)# Adventureworks_sql-project
+# Analysis on AdventureWorks Database using SQL
+
 This project uses SQL queries to analyse a company performace on various pramaters which are then represented graphically.
 
 ## Database: 
