@@ -1,4 +1,4 @@
-# Adventureworks_sql-project
+![image](https://github.com/Shreya-Gupta1/AdventureWorks_SQL-Project/assets/86680103/89a7b7b6-6f21-4079-b728-f3e6ebca105f)# Adventureworks_sql-project
 This project uses SQL queries to analyse a company performace on various pramaters which are then represented graphically.
 
 ## Database: 
@@ -15,6 +15,14 @@ The project uses the Adventureworks dataset, a practical dataset that covers var
 To solve these problem statements SQL queries are written which use various data aggregation and result manupulations functions like nested queries, partition, join, group by and many more
 
 ## Result and Conclusion:
-The data obtained for the SQL queries is then represented graphically for better understanding. They can be viewed on the ppt included in this repository. A few of them can be seen in the image below- 
+The data obtained for the SQL queries is then represented graphically for better understanding. They can be viewed on the [ppt](https://github.com/Shreya-Gupta1/Adventureworks_sql-project/blob/main/AdventureWorks_Analysis.pdf) included in this repository. A few of them can be seen in the image below- 
+
 
 ![analysis image-1](https://github.com/Shreya-Gupta1/Adventureworks_sql-project/assets/86680103/94fcda24-247c-4946-8b52-93b3c43a5c72)
+
+
+For Example, We can observe that-
+* Mountain-200 Black, 38 (ProductID 782) is the best selling product with a total sales of $4,400,592.80
+* 'Price' is the best performing sales and reason while 'Television Advertisement' has the lowest sales impact
+* Highest Number of orders were shipped in May 2004 with June 2004 at a close second.
+
